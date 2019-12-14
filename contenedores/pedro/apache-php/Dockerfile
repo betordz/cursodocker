@@ -1,6 +1,6 @@
 # A basic apache server with PHP. To use either add or bind mount content under /var/www
 
-FROM apache2
+FROM teamrock/apache2
 
 MAINTAINER Pedro Lucio: 0.1
 
